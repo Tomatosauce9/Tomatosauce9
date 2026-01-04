@@ -33,8 +33,8 @@ public:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tomatosauce9&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomatosauce9&layout=compact&theme=onedark&hide_border=true"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomatosauce9&theme=onedark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tomatosauce9&theme=onedark"/>
 </p>
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="80%"></p>
 
@@ -50,3 +50,10 @@ public:
 
 ---
 
+<p align="center">  
+✨ Always open to collaborating, learning from real-world projects, and exploring internship opportunities. ✨  
+</p>
+
+<p align="center">  
+Thanks for visiting and have a nice day 😎  
+</p>
