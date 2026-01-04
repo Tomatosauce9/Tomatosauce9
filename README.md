@@ -16,9 +16,7 @@ public:
     void display() {
         std::vector<std::string> languages = 
         { 
-            "C/C++","Java",
-            "Assembly","Python",
-            "Lua","JavaScript" 
+            "C/C++","Java","Assembly","Python","Lua","JavaScript" 
         };
         std::cout << "I'm learning... :\t";
         for (const auto& language : languages) {
