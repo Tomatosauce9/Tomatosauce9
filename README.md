@@ -1,10 +1,15 @@
 <p align="center">
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=FF6347&center=true&repeat=true&width=650&height=70&lines=Hey!+I'm+TomatoSauce9" alt="Typing SVG" />
- </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=FF6347&center=true&repeat=true&width=650&height=70&lines=Hey!+I'm+TomatoSauce9" alt="Typing SVG" />
+  </a>
 </p>
 
-## Tomatosauce9 <br><img alt="GitHub followers" src="https://img.shields.io/github/followers/Tomatosauce9?style=social" />  <a href="https://x.com/SsageParuders"><img alt="YouTube Follow" src="https://img.shields.io/youtube/channel/subscribers/UCcFmou3ccXiSCn1JPZHJaFA?style=social"></a>
+<p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Tomatosauce9?style=social" />
+  <a href="https://www.youtube.com/channel/UCcFmou3ccXiSCn1JPZHJaFA">
+    <img alt="YouTube Subscribe" src="https://img.shields.io/youtube/channel/subscribers/UCcFmou3ccXiSCn1JPZHJaFA?style=social">
+  </a>
+</p>
 
 ---
 
@@ -37,6 +42,9 @@ public:
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="80%"></p>
 
 ---
+
+#### 🐾 Visitor
+![Visitors](https://count.getloli.com/get/@!Tomatosauce9)
 
 ## 📬 Contact Me
 <p align="center">
