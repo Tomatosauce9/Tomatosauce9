@@ -1,6 +1,8 @@
+<h1 align="center">TomatoSauce9</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=FF6347&center=true&repeat=true&width=650&height=70&lines=Hey!+I'm+TomatoSauce9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FF6347&center=true&repeat=true&width=650&height=70&lines=Hey!+I'm+TomatoSauce9" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,53 +15,52 @@
 
 ---
 
-## Introduction
+## 🧑‍💻 About Me
 
 ```cpp
 class Tomatosauce9 {
 public:
     void display() {
-        std::vector<std::string> languages = 
-        { 
-            "C/C++","Java","Assembly","Python","Lua","JavaScript" 
+        std::vector<std::string> languages = {
+            "C/C++", "Java", "Assembly", "Python", "Lua", "JavaScript"
         };
-        std::cout << "I'm learning... :\t";
-        for (const auto& language : languages) {
-            std::cout << language << "\t";
+
+        std::cout << "I'm learning: ";
+        for (const auto& lang : languages) {
+            std::cout << lang << " ";
         }
         std::cout << std::endl;
     }
 };
 ```
 
----
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomatosauce9&theme=onedark" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tomatosauce9&theme=onedark"/>
+<p align="center"> 
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomatosauce9&theme=onedark" />
 </p>
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="80%"></p>
 
----
+<p align="center">
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tomatosauce9&theme=onedark"/> 
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tomatosauce9&theme=onedark"/>
+</p>
 
-#### 🐾 Visitor
-![Visitors](https://count.getloli.com/get/@!Tomatosauce9)
+<p align="center">
+    <img src="/github-metrics.svg" alt="Metrics" width="80%"/>
+</p>
+
+## 👀 Visitors
+<p align="center"> 
+    <img src="https://count.getloli.com/get/@!Tomatosauce9" />
+</p>
 
 ## 📬 Contact Me
 <p align="center">
-  <a href="https://github.com/Tomatosauce9"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.threads.com/@tomato_0972"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://discord.com/users/691171537499324488"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.youtube.com/channel/UCcFmou3ccXiSCn1JPZHJaFA"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/></a>
+    <a href="https://github.com/Tomatosauce9"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/> 
+        </a> <a href="https://www.threads.com/@tomato_0972"> <img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white&style=for-the-badge"/> 
+        </a> <a href="https://discord.com/users/691171537499324488"> <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
+        </a> <a href="https://www.youtube.com/channel/UCcFmou3ccXiSCn1JPZHJaFA"> <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
+    </a>
 </p>
 
----
-
-<p align="center">  
-✨ Always open to collaborating, learning from real-world projects, and exploring internship opportunities. ✨  
-</p>
-
-<p align="center">  
-Thanks for visiting and have a nice day 😎  
-</p>
+<p align="center"> ✨ Always open to collaborating, learning from real-world projects, and exploring internship opportunities. ✨ </p>
+<p align="center"> 😎 Thanks for visiting and have a nice day! </p>
